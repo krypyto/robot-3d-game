@@ -16,6 +16,7 @@ Embark on an exciting journey as a robotic explorer in this immersive 3D game. N
 - **Multiple Levels**: Experience diverse room designs and challenges
 
 ## Installation
+<img width="1304" height="583" alt="image" src="https://github.com/user-attachments/assets/dc155a9a-3d2e-4d55-86e8-b56d722f8895" />
 
 ### Prerequisites
 - Unity 2021.3 or later
